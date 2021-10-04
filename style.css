@@ -1,3 +1,14 @@
 #submit-btn{
-    background-color: green;
+    background-color:cyan;
+
+}
+
+#signup-btn{
+    background-color: chartreuse;
+}
+
+#submit-btn, #signup-btn{
+    border: none;
+    border-radius: 7px;
+    padding: 10px 25px;
 }
